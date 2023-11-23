@@ -1275,7 +1275,15 @@ line-height: normal;
   a{
 
     /* text-decoration: underline !important; */
+    /* color: #343434; */
+  }
+  .radio__name a{
     color: #343434;
+font-family: 'Gilroy-Medium';
+font-size: clamp(11px, 4.5vw, 12.5px);
+font-style: normal;
+font-weight: 400;
+line-height: 128%; /* 15.36px */
   }
   
   @media screen and (max-width: 820px) {
@@ -1592,14 +1600,12 @@ line-height: normal;
     .section__one {
       width: 100%;
       height: 59vh;
-      /* margin-top: 20px; */
-      /* padding-top: 50px; */
     }
     .welcome__text{
       width: 80%;
     }
     .section__three {
-      height: 712vh;
+      height: 703vh;
   }
   .section__five {
     height: 364vh;
@@ -1627,7 +1633,9 @@ line-height: normal;
       width: 100%;
       height: 75%;
     }
-  
+  span{
+    display: none;
+  }
     .speaker__info {
       max-width: 100%;
     }
@@ -1687,9 +1695,6 @@ line-height: normal;
     .card__body {
       padding: 20px;
     }
-  span{
-    display: none;
-  }
     .side__menu {
       background: #8349e9;
       height: 100vh;
@@ -1741,7 +1746,19 @@ line-height: normal;
   .register__btn{
     display: none;
   }
-  
+  .hero__btn{
+background: linear-gradient(91deg, #8349E9 6.3%, #EC167F 110.67%);
+color: var(--white);
+height: 51px;
+
+  }
+  .header {
+    width: 100vw;
+    transition: all 0.3s;
+    position: fixed;
+    z-index: 5;
+    left: 0;
+  } 
   }
   
   /* @keyframes gradient {
