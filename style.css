@@ -687,8 +687,8 @@ line-height: 123%;
 padding-top: 12px;
 }
 .breakout__topic{
-  width: 98%;
-    color: #FFF;
+width: 98%;
+color: #FFF;
 font-family: 'Gilroy-Medium', sans-serif;
 font-size: 16px;
 font-style: normal;
@@ -839,18 +839,18 @@ width: 75%;
   }
   
   .sectionFive__main {
-    padding-top: 80px;
+    padding-top: 120px;
     width: 80%;
-    height: 100%;
+    height: 90%;
     margin: auto;
     display: flex;
     align-items: center;
-    justify-content: center;
+    /* justify-content: center; */
     flex-direction: column;
     gap: 50px;
   }
   
-  .event {
+  /* .event {
     width: 80%;
     margin: auto;
   }
@@ -898,7 +898,7 @@ width: 75%;
     justify-content: space-between;
     padding: 30px;
     border-bottom: 0.5px solid rgb(240, 240, 240);
-  }
+  } */
   
   .section__six {
     width: 100%;
@@ -1576,6 +1576,9 @@ line-height: 128%; /* 15.36px */
       gap: 10px;
       grid-template-columns: repeat(1, 1fr);
     }
+    .hamburger{
+      height: 19px;
+    }
     .title__one{
       width: 100%;
       font-size: 34px;
@@ -1791,6 +1794,9 @@ height: 51px;
       padding: 48px;
       margin-top: -23px;
   }
+  .hamburger{
+    height: 19px;
+  }
   .section__two {
     height: 188vh;
 }
@@ -1842,6 +1848,9 @@ height: 51px;
       padding: 40px;
       margin-top: -17px;
   }
+  .hamburger{
+    height: 19px;
+  }
   .hero {
     height: 150vh;
   }
@@ -1856,7 +1865,7 @@ height: 51px;
       height: 837vh;
   }
   .section__five {
-    height: 444vh;
+    height: 486vh;
       }
   .section__seven {
         height: 73vh;
@@ -1894,14 +1903,17 @@ height: 51px;
       height: 922px ;
     }
     .section__two {
-      height: 246vh;
+      height: 196vh;
   }
   .section__three {
-    height: 727vh;
+    height: 608vh;
   }
   .section__eight {
-  height: 181vh;
+  height: 138vh;
   }
+  .section__five {
+    height: 323vh;
+    }
   .radio {
     width: 301px;
 }

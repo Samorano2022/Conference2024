@@ -1,5 +1,5 @@
-var eventBtn = document.getElementsByClassName("event__btns")
-var eventTable = document.getElementsByClassName("event__tables")
+// var eventBtn = document.getElementsByClassName("event__btns")
+// var eventTable = document.getElementsByClassName("event__tables")
 var menu = document.getElementsByClassName('header__desktop');
 const hamburger = document.getElementsByClassName('hamburger')
 const header = document.getElementsByClassName('header__mobile')
