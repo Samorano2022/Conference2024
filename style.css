@@ -1892,6 +1892,14 @@ height: 51px;
    .section__eightContainer{
     height:100%;
    }
+   .active.header__desktop {
+    visibility: visible;
+    opacity: 1;
+    height: 55vh;
+    transform: translateY(0);
+    padding: 48px;
+    margin-top: -23px;
+}
 }
 @media screen and (max-width: 390px){
 .active.header__desktop {
