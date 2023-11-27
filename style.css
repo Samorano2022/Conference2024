@@ -1593,7 +1593,7 @@ line-height: 128%; /* 15.36px */
       line-height: 38px;
     }
     .schedule__list{
-      width: 292px;
+      width: 100%;
     }
     .section__two {
       height: 217vh;
@@ -1649,7 +1649,7 @@ line-height: 128%; /* 15.36px */
       height: 64vh;
   }
   .breakout__cardOne{
-    width: 313px;
+    width: 100%;
     padding: 0;
   }
     .speaker__img {
@@ -1898,10 +1898,12 @@ height: 51px;
     width: 100%;
         }
         .sectionThree__main{
-          height: 100%;
+  width: 100%;
+  height: 100%;
         }
         .sectionTwo__main{
-          height: 100%;   
+  width: 100%;
+  height: 100%;   
          }
   }
 
@@ -1916,9 +1918,12 @@ height: 51px;
   height: 181vh;
   }
   .sectionTwo__main{
-    height: 100%;   
+  width: 100%;
+  height: 100%;   
    }
    .sectionThree__main{
+  width: 100%;
+
     height: 100%;
    
   }
@@ -1947,10 +1952,12 @@ height: 51px;
     width: 301px;
 }
 .sectionThree__main{
+  width: 100%;
   height: 100%;
  
 }
 .sectionTwo__main{
+  width: 100%;
  height: 100%;   
 }
   }
