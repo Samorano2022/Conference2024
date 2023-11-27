@@ -1336,7 +1336,8 @@ line-height: 128%; /* 15.36px */
       height: 260vh;
     }
     .section__five{
-      height: 292vh;
+      /* height: 292vh; */
+      height: 100%;
     }
     .section__six{
       height: 2590px;
@@ -1365,7 +1366,7 @@ line-height: 128%; /* 15.36px */
 }
 .sectionFive__main{
   padding-top: 122px;
-  /* height: 100%; */
+  height: 100%;
 }
 .section__eightLeft{
   width: 100%;
