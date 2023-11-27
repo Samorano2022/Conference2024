@@ -1284,6 +1284,7 @@ line-height: 128%; /* 15.36px */
       display: none;
     }
     .hero {
+      
       height: 134vh;
     }
     .hero__left {
@@ -1355,7 +1356,7 @@ line-height: 128%; /* 15.36px */
   height: 10vh;
 }
 .radio{
-  width: 320px;
+  width: 100%;
 }
 .section__eightContainer{
   display: flex;
@@ -1527,7 +1528,7 @@ line-height: 128%; /* 15.36px */
     /* gap: 30px; */
     flex-wrap: wrap;
     justify-content: center;
-    width: 552px;
+    width: 100%;
 }
 .breakout__topic{
   width: 95%;
@@ -1584,6 +1585,8 @@ line-height: 128%; /* 15.36px */
     }
     .hero{
       height: 126vh;
+  width: 100%;
+
     }
     .larger__text{
       width: 100%;
@@ -1596,7 +1599,8 @@ line-height: 128%; /* 15.36px */
       width: 100%;
     }
     .section__two {
-      height: 217vh;
+  width: 100%;
+  height: 217vh;
   }
   .lead{
     width: 100%;
@@ -1628,10 +1632,12 @@ line-height: 128%; /* 15.36px */
       width: 80%;
     }
     .section__three {
-      height: 610vh;
+  width: 100%;
+  height: 610vh;
   }
   .section__five {
-    height: 364vh;
+  width: 100%;
+  height: 364vh;
       }
           .sectionTwo__main {
       padding: 80px 0;
@@ -1681,17 +1687,19 @@ line-height: 128%; /* 15.36px */
     padding-left: 16px;
   }
   .section__eight{
-    height: 172vh;
+  width: 100%;
+  height: 172vh;
   }
     .mobile__left img {
       height: 30px;
       object-fit: cover;
     }
     .radio{
-      width: 342px;
+      width: 100%;
     }
   .footer{
-    height: 44vh;
+  width: 100%;
+  height: 44vh;
   }
     .hero__left {
       display: flex;
@@ -1788,7 +1796,15 @@ height: 51px;
     position: fixed;
     z-index: 5;
     left: 0;
+
   } 
+  .breakout__cardOne {
+    width: 100%;
+    padding: 0;
+}
+.schedule__card{
+  width: 100%;
+}
   }
   @media screen and (max-width: 430px) {
     .active.header__desktop {
@@ -1800,25 +1816,38 @@ height: 51px;
       margin-top: -23px;
   }
   .sectionThree__main{
-    height: 100%;
+  width: 100%;
+  height: 100%;
   }
   .sectionTwo__main{
-    height: 100%;   
+  width: 100%;
+  height: 100%;   
    }
   .hamburger{
     height: 19px;
   }
   .section__two {
-    height: 188vh;
+  width: 100%;
+  height: 188vh;
 }
 .section__eight {
+  width: 100%;
   height: 138vh;
 }
 .section__seven {
   padding-top: 65px;
   height: 58vh;
+  width: 100%;
+
 }
 .lead{
+  width: 100%;
+}
+.breakout__cardOne {
+  width: 100%;
+  padding: 0;
+}
+.schedule__card{
   width: 100%;
 }
   }
@@ -1833,9 +1862,11 @@ height: 51px;
     margin-top: 3px;
 }
 .section__two {
+  width: 100%;
   height: 200vh;
 }
 .section__three {
+  width: 100%;
   height: 660vh;
 }
 .section__seven {
@@ -1843,17 +1874,27 @@ height: 51px;
   height: 64vh;
 }
 .section__eight {
+  width: 100%;
   height: 150vh;
 }
 .lead{
   width: 100%;
 }
 .sectionThree__main{
+  width: 100%;
   height: 100%;
 }
 .sectionTwo__main{
+  width: 100%;
   height: 100%;   
  }
+ .breakout__cardOne {
+  width: 100%;
+  padding: 0;
+}
+.schedule__card{
+  width: 100%;
+}
 }
 
 @media screen and (max-width: 375px) {
@@ -1876,23 +1917,29 @@ height: 51px;
       height: 64vh;
     }
   .section__two {
-      height: 245vh;
+  width: 100%;
+  height: 245vh;
   }
   .section__three {
-      height: 837vh;
+  width: 100%;
+  height: 837vh;
   }
   .section__five {
-    height: 486vh;
+  width: 100%;
+  height: 486vh;
       }
   .section__seven {
-        height: 73vh;
+  width: 100%;
+  height: 73vh;
       }
   .section__eight {
-          height: 183vh;
+  width: 100%;
+  height: 183vh;
       }
 
   .section__eight {
-          height: 184vh;
+  width: 100%;
+  height: 184vh;
         }
   .lead{
     width: 100%;
@@ -1905,16 +1952,26 @@ height: 51px;
   width: 100%;
   height: 100%;   
          }
+         .breakout__cardOne {
+          width: 100%;
+          padding: 0;
+      }
+      .schedule__card{
+        width: 100%;
+      }
   }
 
   @media screen and (max-width: 360px) {
     .section__two {
-      height: 246vh;
+  width: 100%;
+  height: 246vh;
   }
   .section__three {
-    height: 756vh;
+  width: 100%;
+  height: 756vh;
   }
   .section__eight {
+  width: 100%;
   height: 181vh;
   }
   .sectionTwo__main{
@@ -1923,10 +1980,15 @@ height: 51px;
    }
    .sectionThree__main{
   width: 100%;
-
     height: 100%;
-   
   }
+  .breakout__cardOne {
+    width: 100%;
+    padding: 0;
+}
+.schedule__card{
+  width: 100%;
+}
   }
   @media screen and (max-width: 320px) {
     .worldclass, .bestexp, .networking {
@@ -1937,27 +1999,38 @@ height: 51px;
       height: 922px ;
     }
     .section__two {
-      height: 196vh;
+  width: 100%;
+  height: 196vh;
   }
   .section__three {
-    height: 608vh;
+  width: 100%;
+  height: 608vh;
   }
   .section__eight {
+  width: 100%;
   height: 138vh;
   }
   .section__five {
-    height: 323vh;
+  width: 100%;
+  height: 323vh;
     }
   .radio {
-    width: 301px;
+    width: 100%;
 }
 .sectionThree__main{
   width: 100%;
   height: 100%;
  
 }
+.breakout__cardOne {
+  width: 100%;
+  padding: 0;
+}
 .sectionTwo__main{
   width: 100%;
  height: 100%;   
+}
+.schedule__card{
+  width: 100%;
 }
   }
