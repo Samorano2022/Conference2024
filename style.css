@@ -1597,6 +1597,7 @@ line-height: 128%; /* 15.36px */
     }
     .schedule__list{
       width: 100%;
+        gap: 16px;
     }
     .section__two {
   width: 100%;
