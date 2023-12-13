@@ -1557,7 +1557,7 @@ display: flex;
 flex-direction: column;
 }
 .sectionTwo__main {
-padding: 230px 0;
+/* padding: 230px 0; */
 height: 100%;
 }
 .right__btn{
