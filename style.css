@@ -6,7 +6,10 @@
   scroll-behavior: smooth;
 
 }
-
+html{
+  word-wrap: break-word;
+  -webkit-text-size-adjust: 100%;
+}
 body {
   /* font-family: "Inter"; */
   overflow-x: hidden;
@@ -1304,6 +1307,7 @@ line-height: 128%; /* 15.36px */
     height: 80%;
     width: 80%;
     gap: 70px;
+    padding-top: 155px;
   }
   .hero__right img {
     width: 100%;
@@ -1340,7 +1344,6 @@ line-height: 128%; /* 15.36px */
   .section__three{
     /* height: 260vh; */
     height: 100%;
-
   }
   .section__five{
     /* height: 292vh; */
@@ -1356,7 +1359,6 @@ line-height: 128%; /* 15.36px */
 .section__seven{
   padding-top: 45px;
   height: 100%;
-
   /* height: 46vh; */
 }
 .section__eight{
