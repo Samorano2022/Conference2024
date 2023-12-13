@@ -1397,8 +1397,7 @@ width: 100%;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 10px;
   }
-
-  .sectionTwo__main .head__two {
+ .head__two {
     text-align: center;
   }
 
@@ -1559,6 +1558,7 @@ flex-direction: column;
 }
 .sectionTwo__main {
 padding: 230px 0;
+height: 100%;
 }
 .right__btn{
 display: none;
