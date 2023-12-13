@@ -1292,8 +1292,8 @@ line-height: 128%; /* 15.36px */
     display: none;
   }
   .hero {
-    
-    height: 134vh;
+    height: 100%;
+    /* height: 134vh; */
   }
   .hero__left {
     display: flex;
