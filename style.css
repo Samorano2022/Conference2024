@@ -1025,6 +1025,7 @@ line-height: normal;
 }
 .section__eightContainer{
 width: 80%;
+height: 100%;
 margin: auto;
 display: flex;
 align-items: center;
@@ -1363,7 +1364,8 @@ line-height: 128%; /* 15.36px */
   /* height: 46vh; */
 }
 .section__eight{
-  height: 83vh;
+height: 118vh;
+  /* height: 83vh; */
 }
 .channel__body{
 height: 10vh;
@@ -1586,7 +1588,6 @@ padding-bottom: 50px;
 .section__three {
   /* height: 290vh; */
   height: 100%;
-
 }
 .section__eight {
   /* height: 100%; */
