@@ -1456,7 +1456,7 @@ margin-bottom: 20px;
   .active.header__desktop {
     visibility: visible;
     opacity: 1;
-    height: 39vh;
+    height: 55vh;
     transform: translateY(0);
     padding-left: 84px;
   }
