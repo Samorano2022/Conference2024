@@ -1363,10 +1363,7 @@ line-height: 128%; /* 15.36px */
   /* height: 46vh; */
 }
 .section__eight{
-  height: 100%;
-}
-.section__eightContainer{
-  height: 100%;
+  height: 83vh;
 }
 .channel__body{
 height: 10vh;
@@ -1378,6 +1375,7 @@ width: 100%;
 display: flex;
 padding-top: 76px;
 flex-direction: column;
+height: 100%;
 }
 .sectionFive__main{
 padding-top: 122px;
