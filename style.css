@@ -1363,7 +1363,7 @@ line-height: 128%; /* 15.36px */
   /* height: 46vh; */
 }
 .section__eight{
-height: 86vh;
+  height: 100%;
 }
 .channel__body{
 height: 10vh;
