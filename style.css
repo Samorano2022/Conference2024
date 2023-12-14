@@ -1365,6 +1365,9 @@ line-height: 128%; /* 15.36px */
 .section__eight{
   height: 100%;
 }
+.section__eightContainer{
+  height: 100%;
+}
 .channel__body{
 height: 10vh;
 }
