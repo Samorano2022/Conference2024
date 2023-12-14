@@ -1289,7 +1289,7 @@ line-height: 128%; /* 15.36px */
     width: 100vw;
     height: 100vh;
     padding-bottom: 80px;
-    background: url(assets/newherobg.png);
+    /* background: url(assets/newherobg.png); */
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
