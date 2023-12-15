@@ -1290,7 +1290,7 @@ line-height: 128%; /* 15.36px */
     gap: 20px;
   }
 } */
-@media screen and (max-device-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .header__left {
     display: none;
   }
