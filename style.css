@@ -713,13 +713,13 @@ width: 75%;
   height: 100%;
 }
 .sectionTwo__body{
-  width: 100%;
+  width: 80%;
   height: 100%;
-  /* margin: auto; */
+  margin: auto;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 15px;
+  /* gap: 15px; */
 }
 
 .section__img {
