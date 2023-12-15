@@ -583,8 +583,9 @@ height: 120vh;
 }
 .worldclass{
   width: 100%;
-  margin: auto;
-background: url(assets/experience.png);
+background: url(assets/worldclaszz.png);
+margin: auto;
+/* background: url(assets/experience.png); */
 height: 445px;
 background-size: contain;
 background-repeat: no-repeat;
@@ -614,9 +615,8 @@ font-size: clamp(22px, 2.5vw, 22px);
 font-style: normal;
 font-weight: 200;
 line-height: normal;
-background: url(assets/worldclaszz.png);
 padding-top: 320px;
-/* background: url(assets/experience.png); */
+background: url(assets/experience.png);
 background-size: contain;
 background-repeat: no-repeat;
 margin-top: 60px;
