@@ -124,7 +124,7 @@ color: white;}
   line-height: 159.336%; /* 23.9px */
 }
 .larger__text{
-  font-size: clamp(58px, 4.5vw, 54px);
+  font-size: clamp(58px, 4.5vw, 48px);
   line-height: 112.5%;
   font-weight: 800;
   color: var(--white);
