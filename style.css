@@ -2595,6 +2595,14 @@ padding-bottom: 50px;
   height: 100%;
 }
 .radio__name{
-  width: 100%;
+  width: 80%;
+  margin: auto;
+}
+.schedule__cardBody {
+  padding: 15px;
+}
+.reg__right {
+  width: 95%;
+  margin: auto;
 }
 }
