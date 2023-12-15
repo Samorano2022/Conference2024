@@ -129,11 +129,10 @@ color: white;}
   font-weight: 800;
   color: var(--white);
   color: #f1eeee;
-font-family: 'Gilroy-Bold', sans-serif;
-
+  font-family: 'Gilroy-Bold', sans-serif;
 }
 .head__one {
-  font-size: clamp(18px, 4.5vw, 30px);
+  font-size: clamp(18px, 4.5vw, 24px);
   font-weight: 200;
   color: var(--white);
   color: #FFF;
