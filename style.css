@@ -495,7 +495,8 @@ background: var(--white);
   gap: 60px;
 }
 .sectionOne__bottom{
-  width: 100%;
+  width: 80%;
+  margin: auto;
   height: 100vh;
   background: url(assets/collage.png);
   background-size: contain;
