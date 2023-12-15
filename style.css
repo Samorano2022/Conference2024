@@ -2569,3 +2569,19 @@ height: 100%;
 padding-bottom: 50px;
 }
 }
+@media screen and (max-width: 280px) {
+  .hero__main {
+    padding-top: 5px;
+    gap: 10px;
+}
+.date__tag {
+  height: 150px;
+}
+.mobile__left img {
+  height: 25px;
+  object-fit: cover;
+}
+.hero__right img{
+  display: none;
+}
+}
