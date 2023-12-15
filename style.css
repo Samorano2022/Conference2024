@@ -499,7 +499,7 @@ background: var(--white);
   margin: auto;
   height: 100vh;
   background: url(assets/collage.png);
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   /* background-clip: border-box; */
 }
