@@ -1535,7 +1535,7 @@ width: 100%;
   display: flex;
   flex-wrap: wrap;
  gap: 30px;
- justify-content: center;
+ justify-content: space-evenly;
 }
 
 .breakout___rowOne, .breakout___rowTwo, .breakout___rowThree{
