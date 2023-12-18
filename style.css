@@ -1346,7 +1346,7 @@ line-height: 128%; /* 15.36px */
     /* height: 53vh; */
   }
   .section__two{
-    height: 182vh;
+    height: 100%;
   }
   .section__three{
     /* height: 260vh; */
