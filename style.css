@@ -195,7 +195,7 @@ text-align: center;
   height: 100%;
   /* padding-bottom: 80px; */
   background: url(assets/landingframe.png);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   overflow: hidden;
 }
