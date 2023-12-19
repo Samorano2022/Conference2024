@@ -193,6 +193,7 @@ text-align: center;
 }
 .hero__main {
   width: 80%;
+
   /* padding-top: 80px; */
   height: 80%;
   /* height: calc(100% - 80px); */
@@ -1291,6 +1292,7 @@ line-height: 128%; /* 15.36px */
     height: 26vh;
   }
   .section__one{
+    padding-top: 50px;
     height: 100%;
     /* height: 53vh; */
   }
@@ -1590,6 +1592,7 @@ display: none;
     height: 26vh;
   }
   .section__one{
+    padding-top: 50px;
     height: 100%;
     /* height: 53vh; */
   }
@@ -1932,6 +1935,7 @@ width: 100%;
   .section__one {
     height: 100%;
     width: 100%;
+    padding-top: 50px;
     /* height: 64vh; */
   }
   .welcome__text{
@@ -2363,6 +2367,7 @@ padding-bottom: 50px;
 .section__one {
     width: 100%;
     height: 100%;
+    padding-top: 50px;
 
     /* height: 64vh; */
   }
