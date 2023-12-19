@@ -4,12 +4,8 @@
   box-sizing: border-box;
   text-decoration: none;
   scroll-behavior: smooth;
-
 }
-/* html{
-  word-wrap: break-word;
-  -webkit-text-size-adjust: 100%;
-} */
+
 body {
   overflow-x: hidden;
   width: 100%;
@@ -106,11 +102,7 @@ body {
 .nav__logo > img{
   width: 105px;
 }
-.her{
-  /* width: 750.569px;
-height: 855.912px; */
 
-}
 span{
   padding-top: 5px;
 height: 27px;
@@ -233,7 +225,7 @@ text-align: center;
 .hero__main {
   width: 80%;
   /* padding-top: 80px; */
-  height: 100vh;
+  height: 100%;
   /* height: calc(100% - 80px); */
   margin: auto;
   display: flex;
