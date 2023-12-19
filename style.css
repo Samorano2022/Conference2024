@@ -1556,15 +1556,15 @@ display: none;
     gap: 70px;
     padding-top: 155px;
   }
-  /* .hero {
-    width: 100vw;
+  .hero {
+    width: 150vw;
     height: 100%;
-    padding-bottom: 80px;
+    /* padding-bottom: 80px; */
     background: url(assets/landingframe.png);
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
-  } */
+  }
   /* .hero__right img {
     width: 100%;
     object-fit: contain;
