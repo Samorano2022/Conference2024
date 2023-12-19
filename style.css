@@ -191,6 +191,17 @@ text-align: center;
   background-repeat: no-repeat;
   overflow: hidden;
 }
+.hero__main {
+  width: 80%;
+  /* padding-top: 80px; */
+  height: 100%;
+  /* height: calc(100% - 80px); */
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* gap: 24px; */
+}
 .hero__body{
   display: flex;
   gap: 20px;
@@ -222,17 +233,7 @@ text-align: center;
   width: 40%;
 }
 
-.hero__main {
-  width: 80%;
-  /* padding-top: 80px; */
-  height: 100%;
-  /* height: calc(100% - 80px); */
-  margin: auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  /* gap: 24px; */
-}
+
 .header {
   width: 100vw;
   transition: all 0.3s;
