@@ -1884,7 +1884,7 @@ height: 52vh;
     font-size: 34px;
   }
   .hero{
-    height: 126vh;
+    height: 100vh;
 width: 100%;
 
   }
@@ -2202,7 +2202,7 @@ padding-bottom: 50px;
 }
 .hero{
   /* width: 100vw; */
-  height: 100%;
+  height: 100vh;
   /* padding-bottom: 80px; */
   background: url(assets/newherobg.png);
   background-size: cover;
@@ -2260,7 +2260,7 @@ padding-bottom: 50px;
 }
 .hero{
   /* width: 100vw; */
-  height: 100%;
+  height: 100vh;
   /* padding-bottom: 80px; */
   background: url(assets/newherobg.png);
   background-size: cover;
@@ -2340,7 +2340,7 @@ padding-bottom: 50px;
 }
 .hero{
   /* width: 100vw; */
-  height: 100%;
+  height: 100vh;
   /* padding-bottom: 80px; */
   background: url(assets/newherobg.png);
   background-size: cover;
@@ -2362,7 +2362,7 @@ padding-bottom: 50px;
   height: 19px;
 }
 .hero {
-  height: 150vh;
+  height: 100vh;
 }
 .section__one {
     width: 100%;
@@ -2470,7 +2470,7 @@ height: 100%;
 .section__eight {
   /* height: 100%; */
   width: 100%;
-height: 181vh;
+height: 90vh;
 }
 .section__eightRight, .eightRight__body{
   height: 100%;
@@ -2510,7 +2510,7 @@ padding-bottom: 50px;
 }
 .hero{
   /* width: 100vw; */
-  height: 100%;
+  height: 100vh;
   /* padding-bottom: 80px; */
   background: url(assets/newherobg.png);
   background-size: cover;
@@ -2540,7 +2540,7 @@ height: 100%;
 .section__eight {
   /* height: 100%; */
   width: 100%;
-height: 138vh;
+height: 90vh;
 }
 .section__eightRight, .eightRight__body{
   height: 100%;
@@ -2589,7 +2589,7 @@ padding-bottom: 50px;
 }
 .hero{
   /* width: 100vw; */
-  height: 100%;
+  height: 100vh;
   /* padding-bottom: 80px; */
   background: url(assets/newherobg.png);
   background-size: cover;
@@ -2603,7 +2603,7 @@ padding-bottom: 50px;
   }
   .hero {
       /* width: 100vw; */
-      height: 100%;
+      height: 100vh;
       /* padding-bottom: 80px; */
       background: url(assets/newherobg.png);
       background-size: cover;
