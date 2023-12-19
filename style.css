@@ -491,7 +491,7 @@ background: var(--white);
 .sectionOne__bottom{
   width: 96%;
   margin: auto;
-  height: 100vh;
+  height: 77vh;
   background: url(assets/collage.png);
   background-size: contain;
   background-repeat: no-repeat;
