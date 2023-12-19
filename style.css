@@ -1248,8 +1248,13 @@ line-height: 128%; /* 15.36px */
     display: none;
   }
   .hero {
+    width: 100vw;
     height: 100%;
-    /* height: 134vh; */
+    /* padding-bottom: 80px; */
+    background: url(assets/newherobg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
   }
   .hero__left {
     display: flex;
