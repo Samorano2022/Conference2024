@@ -192,9 +192,9 @@ text-align: center;
 
 .hero {
   width: 100vw;
-  height: 100vh;
+  height: 1100px;
   padding-bottom: 80px;
-  background: url(assets/newherobg.png);
+  background: url(assets/landingframe.png);
   background-size: cover;
   background-repeat: no-repeat;
   overflow: hidden;
