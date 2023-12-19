@@ -192,8 +192,8 @@ text-align: center;
 
 .hero {
   width: 100vw;
-  height: 1100px;
-  padding-bottom: 80px;
+  height: 100%;
+  /* padding-bottom: 80px; */
   background: url(assets/landingframe.png);
   background-size: contain;
   background-repeat: no-repeat;
