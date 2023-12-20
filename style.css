@@ -1003,6 +1003,7 @@ line-height: 128%; /* 30.72px */
 display: flex;
 flex-direction: column;
 gap: 12px;
+height: 100%;
 }
 .eightRight__body{
 display: flex;
@@ -1985,6 +1986,7 @@ span{
   .section__eightContainer, .eight__row{
     display: flex;
     flex-direction: column;
+    height: 100%;
   }
 
   .date__tag {
