@@ -969,8 +969,9 @@ height: 100%;
 margin: auto;
 display: flex;
 align-items: center;
+justify-content: center;
 gap: 30px;
-padding-top: 67px;
+/* padding-top: 67px; */
 }
 .radio{
 display: flex;
