@@ -1630,7 +1630,7 @@ width: 100%;
 }
 .section__eightContainer{
 display: flex;
-padding-top: 76px;
+padding-bottom: 76px;
 flex-direction: column;
 height: 100%;
 }
