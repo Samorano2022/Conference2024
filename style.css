@@ -893,7 +893,6 @@ font-weight: 400;
 line-height: 119.023%;
 }
 .datename{
-  /* color: #404040; */
 color: var(--paragraph-Black, #404040);
 font-family: 'Gilroy-Bold';
 font-size: 18px;
